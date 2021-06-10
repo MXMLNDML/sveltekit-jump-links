@@ -8,6 +8,7 @@ const config = {
         adapter: adapter(),
         paths: {
             base: '/sveltekit-jump-links',
+            assets: '/sveltekit-jump-links',
         },
     },
 };
